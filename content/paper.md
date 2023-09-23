@@ -1,0 +1,3 @@
+# Paper page
+
+[about](/about)
