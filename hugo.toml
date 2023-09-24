@@ -1,5 +1,5 @@
 baseURL = "https://example.com"
-title   = "RACE Benchmark"
+title   = "CausalTime Benchmark for Time-series Causal Discovery"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "RACE: Realistically Generated Time-series Improves Benchmarking of Causal Discovery"
+  homeSubtitle = "Realistically Generated Time-series Improves Benchmarking of Causal Discovery"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
