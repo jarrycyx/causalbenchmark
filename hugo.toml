@@ -1,5 +1,5 @@
 baseURL = "https://example.com"
-title   = "CausalTime Benchmark"
+title   = "CausalTime Benchmark for Time-series Causal Discovery"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
