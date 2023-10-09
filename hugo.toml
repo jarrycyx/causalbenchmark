@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title   = "CausalTime Benchmark for Time-series Causal Discovery"
+baseURL = "https://causaltime.cc"
+title   = "CausalTime Benchmark"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery"
+  homeSubtitle = 'CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery'
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -114,8 +114,8 @@ disableHugoGeneratorInject = false
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.footer]
-    trademark = true
-    rss = true
+    trademark = false
+    rss = false
     copyright = true
     author = true
 
@@ -187,7 +187,7 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery"
+    # subtitle  = "CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery"
     weight    = 1
     # copyright = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
