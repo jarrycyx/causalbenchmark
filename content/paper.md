@@ -1,9 +1,9 @@
 ## CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery
-**Yuxiao Cheng, Ziqian Wang, Tingxiong Xiao, Qin Zhong, Jinli Suo, Kunlun He**
+<!-- **Yuxiao Cheng, Ziqian Wang, Tingxiong Xiao, Qin Zhong, Jinli Suo, Kunlun He** -->
 
 A novel pipeline capable of generating realistic time-series along with a ground truth causal graph that is generalizable to different fields.
 
-[arXiv](https://arxiv.org/abs/2310.01753) | [Code🧑‍💻](https://github.com/jarrycyx/UNN/tree/main/CausalTime) ｜ [Official Website](https://www.causaltime.cc/)
+<!-- [arXiv](https://arxiv.org/abs/2310.01753) | [Code🧑‍💻](https://github.com/jarrycyx/UNN/tree/main/CausalTime) ｜ [Official Website](https://www.causaltime.cc/) -->
 
 
 ## Abstract
@@ -15,8 +15,10 @@ Time-series causal discovery (TSCD) is a fundamental problem of machine learning
 
 ## Citing
 
-If you find this dataset useful in your research, please consider citing the following paper:
-```bibtex
+If you find this dataset useful in your research, please consider citing us.
+
+ <!-- the following paper: -->
+<!-- ```bibtex
 @misc{cheng2023causaltime,
       title={CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery}, 
       author={Yuxiao Cheng and Ziqian Wang and Tingxiong Xiao and Qin Zhong and Jinli Suo and Kunlun He},
@@ -25,4 +27,4 @@ If you find this dataset useful in your research, please consider citing the fol
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
-```
+``` -->

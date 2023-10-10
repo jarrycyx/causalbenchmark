@@ -28,7 +28,7 @@ enableRobotsTXT = true
 enableGitInfo   = false
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
-disableRSS     = false
+disableRSS     = true
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
@@ -37,7 +37,8 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Yuxiao Cheng"
+  # name = "Yuxiao Cheng"
+  name = ""
 
 [blackfriday]
   hrefTargetBlank = true
@@ -116,14 +117,14 @@ disableHugoGeneratorInject = false
   [params.footer]
     trademark = false
     rss = false
-    copyright = true
+    copyright = false
     author = true
 
     topText = []
     bottomText = [
       # "Source code for CausalTime available at </a href=\"https://github.com/jarrycyx/UNN\">UNN Project</a>"
       "Template Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+      # "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
     ]
 
   # Colors for favicons
@@ -169,13 +170,13 @@ disableHugoGeneratorInject = false
   #   name = "twitter"
   #   url  = "https://twitter.com/"
 
-  [[params.social]]
-    name = "email"
-    url  = "mailto:cyx22@mails.tsinghua.edu.cn"
+  # [[params.social]]
+  #   name = "email"
+  #   url  = "mailto:cyx22@mails.tsinghua.edu.cn"
 
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/jarrycyx/UNN"
+  # [[params.social]]
+  #   name = "github"
+  #   url  = "https://github.com/jarrycyx/UNN"
 
   # [[params.social]]
   #   name = "linkedin"
@@ -189,8 +190,8 @@ disableHugoGeneratorInject = false
   [languages.en]
     # subtitle  = "CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery"
     weight    = 1
-    # copyright = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = ""
+    # copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 
 [menu]
