@@ -37,8 +37,8 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  # name = "Yuxiao Cheng"
-  name = ""
+  name = "Yuxiao Cheng"
+  # name = ""
 
 [blackfriday]
   hrefTargetBlank = true
@@ -170,17 +170,21 @@ disableHugoGeneratorInject = false
   #   name = "twitter"
   #   url  = "https://twitter.com/"
 
-  # [[params.social]]
-  #   name = "email"
-  #   url  = "mailto:cyx22@mails.tsinghua.edu.cn"
+  [[params.social]]
+    name = "email"
+    url  = "mailto:cyx22@mails.tsinghua.edu.cn"
 
-  # [[params.social]]
-  #   name = "github"
-  #   url  = "https://github.com/jarrycyx/UNN"
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/jarrycyx/UNN"
 
-  # [[params.social]]
-  #   name = "linkedin"
-  #   url  = "https://www.linkedin.com/"
+  [[params.social]]
+    name = "googlescholar"
+    url  = "https://scholar.google.com/citations?user=f44eGhAAAAAJ"
+
+  [[params.social]]
+    name = "researchgate"
+    url  = "https://www.researchgate.net/profile/Yuxiao-Cheng-4"
 
   # [[params.social]]
   #   name = "stackoverflow"

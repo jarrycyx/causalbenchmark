@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>CausalTime Benchmark</title>
+    <link>https://causaltime.cc/</link>
+    <description>Recent content on CausalTime Benchmark</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://causaltime.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://causaltime.cc/dataset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://causaltime.cc/dataset/</guid>
+      <description>Dataset Download Generated Datasets: BaiduNetdisk | Dropbox | TsinghuaCloud
+If the download link is invalid, please contact us.
+Usage Dataset is in the format of .npy file, which can be loaded by np.load() in Python with numpy package. The downloaded zip contains following files:
+medical gen_data.npy: generated data of shape (Sample_num, Time_step, 2*Node_num) graph.npy: ground truth graph H of shape (Node_num, Node_num) pm25 &amp;hellip; traffic &amp;hellip; load_data.py: a script to load and show the data shape.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://causaltime.cc/paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://causaltime.cc/paper/</guid>
+      <description>CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery A novel pipeline capable of generating realistic time-series along with a ground truth causal graph that is generalizable to different fields.
+Abstract Time-series causal discovery (TSCD) is a fundamental problem of machine learning. However, existing synthetic datasets cannot properly evaluate or predict the algorithms&amp;rsquo; performance on real data. This study introduces the CausalTime pipeline to generate time-series that highly resemble the real data and with ground truth causal graphs for quantitative performance evaluation.</description>
+    </item>
+    
   </channel>
 </rss>

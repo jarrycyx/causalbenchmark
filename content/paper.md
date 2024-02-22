@@ -1,9 +1,11 @@
 ## CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery
 <!-- **Yuxiao Cheng, Ziqian Wang, Tingxiong Xiao, Qin Zhong, Jinli Suo, Kunlun He** -->
 
+**News: our paper is accepted in ICLR 2024.**
+
 A novel pipeline capable of generating realistic time-series along with a ground truth causal graph that is generalizable to different fields.
 
-<!-- [arXiv](https://arxiv.org/abs/2310.01753) | [Code🧑‍💻](https://github.com/jarrycyx/UNN/tree/main/CausalTime) ｜ [Official Website](https://www.causaltime.cc/) -->
+[ICLR 2024](https://openreview.net/forum?id=iad1yyyGme) | [Code🧑‍💻](https://github.com/jarrycyx/UNN/tree/main/CausalTime) ｜ [Official Website](https://www.causaltime.cc/)
 
 
 ## Abstract

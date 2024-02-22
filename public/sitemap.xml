@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://causaltime.cc/dataset/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://causaltime.cc/paper/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://causaltime.cc/categories/</loc>
+  </url><url>
+    <loc>https://causaltime.cc/</loc>
+  </url><url>
+    <loc>https://causaltime.cc/series/</loc>
+  </url><url>
+    <loc>https://causaltime.cc/tags/</loc>
   </url>
 </urlset>
