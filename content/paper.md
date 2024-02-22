@@ -17,16 +17,14 @@ Time-series causal discovery (TSCD) is a fundamental problem of machine learning
 
 ## Citing
 
-If you find this dataset useful in your research, please consider citing us.
-
- <!-- the following paper: -->
-<!-- ```bibtex
-@misc{cheng2023causaltime,
-      title={CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery}, 
-      author={Yuxiao Cheng and Ziqian Wang and Tingxiong Xiao and Qin Zhong and Jinli Suo and Kunlun He},
-      year={2023},
-      eprint={2310.01753},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+If you find this dataset useful in your research, please consider citing the following paper: 
+```bibtex
+@inproceedings{
+cheng2024causaltime,
+title={CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery},
+author={Yuxiao Cheng and Ziqian Wang and Tingxiong Xiao and Qin Zhong and Jinli Suo and Kunlun He},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=iad1yyyGme}
 }
-``` -->
+```
